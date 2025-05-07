@@ -44,8 +44,8 @@ São escritas no formato:
     </thead>
     <tbody>
         <tr class="epico">
-            <td rowspan="6">E01<br>Gestão de Veículos</td>
-            <td class="feature" rowspan="2">F01<br>Cadastro de Veículos</td>
+            <td rowspan="5">E01<br>Gestão de Veículos</td>
+            <td class="feature">F01<br>Cadastro de Veículos</td>
             <td>US01</td>
             <td>Eu, como funcionário, quero cadastrar novos veículos (modelo, marca, placa, ano) para disponibilizá-los para aluguel.</td>
             <td class="alta">Alta</td>
