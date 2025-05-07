@@ -1,15 +1,17 @@
-# Grupo-08---OO
+# TPPE
 
-Desenvolvimento de um sistema de locadora de veículos aplicando OO 💻
+Melhoramento do projeto de OO aplicando boas práticas de programação. 💻
 
-Nome e matrícula dos integrantes:
-</br>
-1 - Arthur D'Assumpção Loureiro - 190084570
-</br>
-2 - Breno Yuri Barbosa Gomes - 180098683
-</br>
-3 - Eduardo Schuindt Santos - 202042927
-</br>
-4 - Igor Ribeiro dos Santos - 190042885
-</br>
-5 - Renato Gabriel Moreira Carvalho - 190019492
+# Sobre o projeto
+
+Esse é um repositório com o objetivo de armazenar os documentos e artefatos levantados para o desenvolvimento da aplicação de locadora de veículos.
+
+**Repositório Original**: [Grupo-08-OO/Trabalho_OO/src](https://github.com/edudsan/Grupo-08---OO/tree/main/Trabalho_OO/src)
+
+# Sobre a aplicação
+
+Essa é uma aplicação de locadora de veículos desenvolvida na disciplina de Orientação a Objetos na UnB.
+
+# Participante
+
+Eduardo Schuindt Santos - 202042927
